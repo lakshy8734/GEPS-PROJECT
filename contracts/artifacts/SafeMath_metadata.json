@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/PreSale_flattened.sol": "SafeMath"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/PreSale_flattened.sol": {
+			"keccak256": "0xcb1e2dffb88e29aa9fea8577b3c7dfbb911f66c3c403fbe937eaa2aa5853727d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1c602c766617b414dd0776bd56c8038e7d70e77b03647e6e278bde9cfd26acef",
+				"dweb:/ipfs/QmP2dyM4R6DaLdzmGZwYpBwhWAtHocfLMs952HNtCjyGso"
+			]
+		}
+	},
+	"version": 1
+}

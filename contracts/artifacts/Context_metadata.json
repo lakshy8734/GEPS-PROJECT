@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/GepsToken.sol": "Context"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/GepsToken.sol": {
+			"keccak256": "0x4158f45504f68c6fa5d6375d2bd8749b45feec95142861505d3b57c32e2fd303",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a433f15c6e1da3df578f39f3d177a37a86677604bc788dffcd5b11eb57fcc3ea",
+				"dweb:/ipfs/QmWFp1qUuCixN3DcNk8PPWYPJbXJ6DhALAj8PnXk4FpqPU"
+			]
+		}
+	},
+	"version": 1
+}
